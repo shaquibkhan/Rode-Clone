@@ -997,6 +997,10 @@ video {
     max-width: 500px;
   }
 
+  .md\:cursor-pointer {
+    cursor: pointer;
+  }
+
   .md\:flex-row {
     flex-direction: row;
   }
